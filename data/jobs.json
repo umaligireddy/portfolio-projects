@@ -1,16 +1,23 @@
 [
   {
-    "Company": "infosys",
-    "Position": "python developer",
-    "Status": "Applied",
+    "company": "CTS",
+    "position": "Full stack python developer",
+    "status": "Applied",
     "Date Applied": "2025-07-23",
     "Notes": ""
   },
   {
-    "Company": "CTS",
-    "Position": "Full stack python developer",
-    "Status": "Applied",
+    "company": "infosys",
+    "position": "python developer",
+    "status": "Applied",
     "Date Applied": "2025-07-23",
     "Notes": ""
+  },
+  {
+    "company": "CGT",
+    "position": "prompt engineering",
+    "status": "Interview",
+    "applied_on": "2025-07-25",
+    "notes": ""
   }
 ]
